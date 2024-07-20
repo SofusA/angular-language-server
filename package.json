@@ -1,0 +1,15 @@
+{
+  "name": "ngserver",
+  "version": "1.0.0",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "true"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@angular/language-server": "^18.0.0",
+    "@angular/language-service": "^18.0.0",
+    "typescript": "5.4.5"
+  }
+}
