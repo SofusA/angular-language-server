@@ -8,8 +8,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@angular/language-server": "^18.0.0",
-    "@angular/language-service": "^18.0.0",
-    "typescript": "5.4.5"
+    "@angular/language-server": "^18.2.0",
+    "@angular/language-service": "^18.2.0",
+    "typescript": "^5.6.0"
   }
 }

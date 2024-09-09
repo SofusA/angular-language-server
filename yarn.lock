@@ -2,32 +2,32 @@
 # yarn lockfile v1
 
 
-"@angular/language-server@^18.0.0":
-  version "18.0.0"
-  resolved "https://registry.yarnpkg.com/@angular/language-server/-/language-server-18.0.0.tgz#1ac3cc416fde8ec28ea7945f7881de97ef3d29ce"
-  integrity sha512-upLEBu3SzkLXwKR7/chYVv9ZA7EylWU/FiBIJHUmIS0hpMo7uaHjhITnj5fae3y6YU8Xj7DhPIDf2zm7iDBbig==
+"@angular/language-server@^18.2.0":
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/@angular/language-server/-/language-server-18.2.0.tgz#66b3eeccc0cb91bfe0997b24bb398ba9b2da9278"
+  integrity sha512-8ifx0LuMkxMZkVPNiMxdGxuCw65FlDhW04ETN8BL6NV+46tfVk1yEC8Rc6Jm+bNfDxEoD/V8jxzLZVriuUvOWw==
   dependencies:
-    "@angular/language-service" "18.0.0"
+    "@angular/language-service" "18.2.0-rc.0"
     vscode-html-languageservice "^4.2.5"
     vscode-jsonrpc "6.0.0"
     vscode-languageserver "7.0.0"
     vscode-languageserver-textdocument "^1.0.7"
     vscode-uri "3.0.7"
 
-"@angular/language-service@18.0.0":
-  version "18.0.0"
-  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-18.0.0.tgz#d3ac81fe9d070f2860932d80b3e936daded23edb"
-  integrity sha512-L504d6ca/uExGc58gTSi0T6c1nibM7zGNKL4iWVsB2uS1Ic8B/JsKsoxtYKwBuPgcgDbyD5QhXHOR4yJORIK6g==
+"@angular/language-service@18.2.0-rc.0":
+  version "18.2.0-rc.0"
+  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-18.2.0-rc.0.tgz#dd1063824078894f8562dbb7ce17fa306cb7f0dd"
+  integrity sha512-mcWU4PPMRDwuPrGO6p1lOOH+KbHoAdPxtjoBA0wuR4PlELis6scWKoDHwuFOrga0ZL6/hZHc0qEG3iycLzD5Ng==
 
-"@angular/language-service@^18.0.0":
-  version "18.0.3"
-  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-18.0.3.tgz#f95567843b28facc62f0ea6125c96c186e053cdc"
-  integrity sha512-urENnMjhSO4Jia7CnbchqN236dOIU6TC3CazwsQoj1Odch9x+iSFkx9Y0jXsiR5r/suK4uqKpK5N8MJ1PxDG1g==
+"@angular/language-service@^18.2.0":
+  version "18.2.3"
+  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-18.2.3.tgz#4dc6a0f852204afc9a2a26c585c7cb5cb573ae0b"
+  integrity sha512-bTZ1O7s0uJqKdd9ImCleRS9Wg6yVy2ZXchnS5ap2gYJx51MJgwOM/fL6is0OsovtZG/UJaKK5FeEqUUxNqZJVA==
 
-typescript@5.4.5:
-  version "5.4.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.4.5.tgz#42ccef2c571fdbd0f6718b1d1f5e6e5ef006f611"
-  integrity sha512-vcI4UpRgg81oIRUFwR0WSIHKt11nJ7SAVlYNIu+QpqeyXP+gpQJy/Z4+F0aGxSE4MqwjyXvW/TzgkLAx2AGHwQ==
+typescript@^5.6.0:
+  version "5.6.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.6.2.tgz#d1de67b6bef77c41823f822df8f0b3bcff60a5a0"
+  integrity sha512-NW8ByodCSNCwZeghjN3o+JX5OFH0Ojg6sadjEKY4huZ52TqbJTJnDo5+Tw98lSy63NZvi4n+ez5m2u5d4PkZyw==
 
 vscode-html-languageservice@^4.2.5:
   version "4.2.5"
