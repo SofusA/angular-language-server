@@ -1,16 +1,14 @@
 # angular-language-server
-a nix flake for angular language server.
+This is a flake which wraps [`@angular/language-server`](https://www.npmjs.com/package/@angular/language-server) with flags to make it start with `stdin` to one command: `angular-language-server`.
 
-## Usage
-Works as a standalone executable. 
-
-### Helix
+## Use with Helix
+`languages.toml`
 ```toml
 [language-server.angular]
 command = "angular-language-server"
+roots = ["angular.json"]
 
 [[language]]
-name = "typescript"
-language-servers = ["tailwindcss-ls"]
-
+name = "html"
+language-servers = ["vscode-html-language-server", "angular"]
 ```
